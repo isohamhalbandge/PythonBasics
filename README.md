@@ -1,0 +1,1 @@
+This repository contains code to get started with python fundamentals from scratch!
