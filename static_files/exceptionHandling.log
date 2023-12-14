@@ -1,0 +1,5 @@
+2023-12-14 08:41:49,284 - This is a start of my programme - INFO 
+2023-12-14 08:41:49,284 - asking user to enter ag  - INFO 
+2023-12-14 08:41:52,624 - user has entered the age: -15 - INFO 
+2023-12-14 08:41:52,625 - I am checking the negative condition - INFO 
+2023-12-14 08:41:52,625 - User has entered a negative age which is not valid! - ERROR 
